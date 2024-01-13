@@ -14,7 +14,7 @@ Welcome to the TV Remote Control System in Python! This project offers a simple 
 1. **Clone the repository to your local machine.**
 
     ```bash
-    git clone https://github.com/your-username/tv-remote-control.git
+    git clone https://github.com/tahaozturk/tv-remote-control.git
     ```
 
 2. **Navigate to the project directory.**
